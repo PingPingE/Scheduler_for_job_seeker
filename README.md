@@ -23,4 +23,4 @@
 ## 동작흐름도
 <image src='https://user-images.githubusercontent.com/47843060/87687417-a985fc00-c7c0-11ea-9a36-60528ee48286.png'/>
 
-## 
+## 캡쳐
