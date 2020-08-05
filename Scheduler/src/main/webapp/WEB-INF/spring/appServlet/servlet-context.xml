@@ -14,7 +14,7 @@
 	<!-- DispatcherServlet Context: defines this servlet's request-processing infrastructure -->
 	
 	<!-- Enables the Spring MVC @Controller programming model -->
-	<context:component-scan base-package="com.coderby.myapp.hr.controller" />
+	<context:component-scan base-package="com.coderby.myapp.sch.controller" />
 
 	<mvc:annotation-driven/>
 

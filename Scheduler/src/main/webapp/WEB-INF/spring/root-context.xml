@@ -64,7 +64,7 @@
 		<aop:advisor advice-ref="txAdvice" pointcut-ref="servicePublicMethod" />
 	</aop:config>
 
-	<context:component-scan base-package="com.coderby.myapp.hr" />
-		<mybatis-spring:scan base-package="com.coderby.myapp.hr.dao" />
+	<context:component-scan base-package="com.coderby.myapp.sch" />
+		<mybatis-spring:scan base-package="com.coderby.myapp.sch.dao" />
 	
 </beans>
