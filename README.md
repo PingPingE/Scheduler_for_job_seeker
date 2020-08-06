@@ -2,17 +2,19 @@
 ## 목적 및 목표
 채용공고, 채용전형, 자격증시험, 강의관리 등을 모두 통합하여 효율적으로 관리 할 수 있는 웹 스케줄러 개발
 
-## 개발 환경 및 
+## 개발 환경 및 언어
 ### Backend
-- Oracle
+- oracle
+- jdbc
 - java
 - jsp
 - spring framework
 
 ### Frontend
-- Html
+- html
 - js
 - css
+- bootstrap
 
 ## 역할
 - DB설계 및 구축
